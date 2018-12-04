@@ -1,5 +1,12 @@
 # ML Lecture 1: Regression - Case Study
 
+**本笔记有[配套的Jupyter Notebook演练]()，包含tensorflow基础api实现的单变量线性回归与多元线性回归，以及对梯度下降训练过程的改进讲解，同时包括高级lib如sklearn与keras的线性回归实现。欢迎在读完笔记后去实际演练一下哟~**
+
+![](pic-1.png)
+
+**如果觉得本系列文章对您有帮助的话，麻烦不吝在对应的github项目上点个star吧！非常感谢！您的支持就是我继续创作的动力哟！**
+
+
 - Application Examples of Regression
 
 In Reality: stock market forecast, self-driving car and recommendation.
